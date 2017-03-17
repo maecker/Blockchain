@@ -1,0 +1,16 @@
+[
+  {
+    "Index": 0,
+    "PreviousHash": "0",
+    "Timestamp": "2017-03-17T08:45:32.9661254+01:00",
+    "Data": "The genesis block",
+    "Hash": "f887f19697d1bf938403d64f2e76c6ae77aaffab85616902c07ff63b5162512c"
+  },
+  {
+    "Index": 1,
+    "PreviousHash": "f887f19697d1bf938403d64f2e76c6ae77aaffab85616902c07ff63b5162512c",
+    "Timestamp": "2017-03-17T08:45:33.1046874+01:00",
+    "Data": "Das sind noch mehr Blockdaten.",
+    "Hash": "5ac0c6b314d2452413738b998005cc2ec703450e13629e6b62ef543684f6c385"
+  }
+]

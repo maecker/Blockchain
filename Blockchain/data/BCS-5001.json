@@ -1,0 +1,23 @@
+[
+  {
+    "Index": 0,
+    "PreviousHash": "0",
+    "Timestamp": "2017-03-17T08:40:50.7564637+01:00",
+    "Data": "The genesis block",
+    "Hash": "ed3c59919d6bdeb094c43f20e999c6bbe9dce6fcbd4679f7cf47489f6a3098d8"
+  },
+  {
+    "Index": 1,
+    "PreviousHash": "ed3c59919d6bdeb094c43f20e999c6bbe9dce6fcbd4679f7cf47489f6a3098d8",
+    "Timestamp": "2017-03-17T08:42:23.1571399+01:00",
+    "Data": "Das sind Blockdaten.",
+    "Hash": "67c98958bdf9d8eb7633324068127f72bdbe82ed8fa6e44cb5a3dad1f415c902"
+  },
+  {
+    "Index": 2,
+    "PreviousHash": "67c98958bdf9d8eb7633324068127f72bdbe82ed8fa6e44cb5a3dad1f415c902",
+    "Timestamp": "2017-03-17T08:42:50.4927497+01:00",
+    "Data": "Das sind noch mehr Blockdaten.",
+    "Hash": "cbf1e9bf1e186b114dfbdb22e243607505d51c74963821366803248a52240c56"
+  }
+]
